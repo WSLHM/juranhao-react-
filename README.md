@@ -12,4 +12,8 @@
 6.使用rem布局,进行移动端页面的适配.
 7.通过本地存储判断用户的登陆状态
 
-[宜居图片1](https://graph.baidu.com/resource/101e23dd0da49b51a4e3b01554013557.jpg)
+![宜居图片1](pic/shouye.png)
+![宜居图片2](pic/denglu.png)
+![宜居图片3](pic/liebiao.png)
+![宜居图片4](pic/shouye.png)
+![宜居图片5](pic/shouye.png)
